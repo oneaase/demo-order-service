@@ -27,5 +27,11 @@ hs_err_pid*
 .project
 .settings/
 
-# Maven built files
+# Spring Tool Suite Setting Files
+.classpath
+.factorypath
+.project
+.settings/
+
+# Maven Build Files
 target/
